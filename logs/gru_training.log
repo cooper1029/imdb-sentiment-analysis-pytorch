@@ -1,0 +1,7 @@
+2026-11-08 23:38:53,319: INFO: running C:\Users\lenovo\Desktop\imdb_sentiment_analysis_torch\imdb_sentiment_analysis_torch\imdb_gru.py
+2026-11-08 23:38:53,319: INFO: device: cpu
+2026-11-08 23:38:53,319: INFO: loading data...
+2026-11-08 23:38:53,505: INFO: data loaded!
+2026-11-08 23:38:53,510: INFO: model created!
+2026-11-08 23:38:53,510: INFO: device: cpu
+2026-11-08 23:38:55,666: INFO: start training...
